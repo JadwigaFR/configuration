@@ -1,0 +1,117 @@
+<keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="Arrangement.Rule.Edit" />
+  <action id="CIDR.Debugger.CopyAddress" />
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl escape" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="CommentByBlockComment" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+  </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="ContextHelp" />
+  <action id="CopyAbsolutePath" />
+  <action id="CopyPathFromRepositoryRootProvider">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="Git.CreateNewBranch">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Git.Stash">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Git.Unstash">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="Images.Thumbnails.Hide">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="PrevParameter" />
+  <action id="PrevTemplateParameter" />
+  <action id="PreviousTemplateVariable" />
+  <action id="RemoteHostView.CopyPaths" />
+  <action id="ReopenClosedTab" />
+  <action id="SearchEverywhere.PrevTab" />
+  <action id="ServiceView.ShowServices" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="StartStopMacroRecording" />
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="WebOpenInAction" />
+  <action id="WelcomeScreen.CopyProjectPath" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+</keymap>
